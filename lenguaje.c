@@ -62,4 +62,4 @@ int main() {
 
 
 ---
-[⬅️ Volver al Índice Principal](../README.md)
+[⬅️ Volver al Índice Principal](./README.md)
