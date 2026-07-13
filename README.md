@@ -15,7 +15,7 @@ Haz clic en los enlaces de la derecha para acceder directamente al código fuent
       <td><b>Unidad 1 (Fase 1)</b></td>
       <td>Implementación de matrices en <b>Lenguaje C</b> usando programación estructurada y paso de arreglos a funciones.</td>
       <td align="center">
-        <a href="./Fase1_C/">📂 Explorar Código C</a>
+        <a href="./Fase1_C/">| [📂 Explorar el lenguaje.C](./lenguaje.c/) 
       </td>
     </tr>
     <tr>
