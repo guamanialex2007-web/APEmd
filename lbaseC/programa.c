@@ -38,5 +38,4 @@ int main() {
 
     return 0;
 }
----
-[⬅️ Volver al Índice Principal](./README.md)
+<a href="./README.md">⬅ Volver al índice</a>
