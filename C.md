@@ -95,3 +95,4 @@ void mostrarResultado(const char *titulo, int Matriz[FILAS][COLUMNAS]) {
         printf("\n");
     }
 }
+```
