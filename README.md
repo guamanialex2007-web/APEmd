@@ -29,7 +29,7 @@ Haz clic en los enlaces de la derecha para acceder directamente al código fuent
       <td><b>Unidad 3 (Fase 3)</b></td>
       <td>Implementación de matrices en <b>Lenguaje Python</b> optimizado con listas anidadas y modularidad.</td>
       <td align="center">
-        <a href="#">📁 Explorar Código Python</a>
+        <a href="./python.md">📁 Explorar Código Python</a>
       </td>
     </tr>
   </tbody>
