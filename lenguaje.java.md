@@ -97,3 +97,5 @@ public class OperacionesMatrices {
         }
     }
 }
+```
+<img width="563" height="508" alt="image" src="https://github.com/user-attachments/assets/41f85908-5c73-47fe-89f2-11d518b24f19" />
