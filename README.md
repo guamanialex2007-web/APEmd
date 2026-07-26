@@ -12,21 +12,21 @@ Haz clic en los enlaces de la derecha para acceder directamente al código fuent
   </thead>
   <tbody>
     <tr>
-      <td><b>Unidad 1 (Fase 1)</b></td>
+      <td><b> Fase 1</b></td>
       <td>Implementación de matrices en <b>Lenguaje C</b> usando programación estructurada y paso de arreglos a funciones.</td>
       <td align="center">
        <a href="./C.md">📁 Explorar código C</a>
       </td>
     </tr>
     <tr>
-      <td><b>Unidad 2 (Fase 2)</b></td>
+      <td><b>Fase 2</b></td>
       <td>Implementación de matrices en <b>Lenguaje Java</b> aplicando programación modular y manejo de flujos con Scanner.</td>
       <td align="center">
         <a href="./lenguaje.java.md">📁 Explorar Código Java</a>
       </td>
     </tr>
     <tr>
-      <td><b>Unidad 3 (Fase 3)</b></td>
+      <td><b>Fase 3</b></td>
       <td>Implementación de matrices en <b>Lenguaje Python</b> optimizado con listas anidadas y modularidad.</td>
       <td align="center">
         <a href="./python.md">📁 Explorar Código Python</a>
