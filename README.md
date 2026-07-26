@@ -22,7 +22,7 @@ Haz clic en los enlaces de la derecha para acceder directamente al código fuent
       <td><b>Unidad 2 (Fase 2)</b></td>
       <td>Implementación de matrices en <b>Lenguaje Java</b> aplicando programación modular y manejo de flujos con Scanner.</td>
       <td align="center">
-        <a href="#">📁 Explorar Código Java</a>
+        <a href="./lenguaje.java.md">📁 Explorar Código Java</a>
       </td>
     </tr>
     <tr>
