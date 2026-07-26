@@ -96,3 +96,5 @@ void mostrarResultado(const char *titulo, int Matriz[FILAS][COLUMNAS]) {
     }
 }
 ```
+### Resultado por Terminal
+<img width="816" height="521" alt="image" src="https://github.com/user-attachments/assets/0fb52b8a-61e2-4107-82ec-fad2397fbe64" />
