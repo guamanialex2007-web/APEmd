@@ -117,3 +117,6 @@ def main():
 # Punto de entrada del script
 if __name__ == "__main__":
     main()
+```
+### Resultado por Terminal
+<img width="1358" height="609" alt="image" src="https://github.com/user-attachments/assets/4ebff888-0827-41f6-8fa9-5aa5b1f7e14e" />
