@@ -1,5 +1,8 @@
-#include <stdio.h>
+⬅️ [Volver al indice](../README.md)
 
+```c
+
+#include <stdio.h>
 int main() {
     int A[2][3], B[2][3];
     int Suma[2][3], Resta[2][3], Multiplicacion[2][3];
@@ -38,4 +41,5 @@ int main() {
 
     return 0;
 }
-<a href="../README.md">⬅ Volver al índice</a>
+
+
