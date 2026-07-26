@@ -99,4 +99,5 @@ public class OperacionesMatrices {
 }
 ```
 ### Resultado por Terminal
-<img width="563" height="508" alt="image" src="https://github.com/user-attachments/assets/41f85908-5c73-47fe-89f2-11d518b24f19" />
+<img width="1641" height="531" alt="image" src="https://github.com/user-attachments/assets/43129c92-9d3c-476e-b557-eb5f9ecb5684" />
+
